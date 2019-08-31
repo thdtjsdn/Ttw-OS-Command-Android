@@ -1,0 +1,8 @@
+[
+	"000_define_window.b2link",
+	"100_define_window.b2link.STATIC",
+	"101_define_window.b2link.STATIC.CONFIG",
+	"101_define_window.b2link.STATIC.CONST",
+	"101_define_window.b2link.STATIC.REGEXP",
+	"101_define_window.b2link.STATIC.UI"
+]
